@@ -1,0 +1,2 @@
+# fullpage-assets
+Assets
